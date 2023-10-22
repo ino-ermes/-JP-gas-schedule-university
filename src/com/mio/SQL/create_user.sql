@@ -1,0 +1,3 @@
+CREATE USER 'lain'@'localhost' IDENTIFIED BY 'password';
+GRANT CREATE, SELECT, INSERT, UPDATE, DELETE, DROP ON * . * TO 'lain'@'localhost';
+FLUSH PRIVILEGES;

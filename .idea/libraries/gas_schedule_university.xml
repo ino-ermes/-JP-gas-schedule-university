@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="gas-schedule-university">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/datechooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/swing-jnafilechooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/table-custom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-image-3.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
